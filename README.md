@@ -1,4 +1,4 @@
-# pycounts
+# pycounts_sk
 
 Calculate word counts in a text file!
 
